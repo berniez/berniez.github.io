@@ -1,0 +1,42 @@
+/* Page background */
+body {
+  background-color: #fdfdfd;        /* slightly off-white */
+  margin: 0;
+  padding: 0;
+  font-family: "Georgia", serif;     /* academic typography */
+  line-height: 1.6;
+  color: #333333;
+}
+
+/* Main content box */
+.wrapper {
+  max-width: 780px;
+  margin: 50px auto;
+  padding: 40px;
+  background: white;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.05); /* soft academic shadow */
+  border-radius: 6px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: "Georgia", serif;
+  color: #2a2a2a;
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  color: #003399;                   /* deep academic blue */
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: give navigation spacing */
+nav a {
+  margin-right: 15px;
+  font-size: 1rem;
+}
+
