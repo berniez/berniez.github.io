@@ -37,7 +37,7 @@ highlighter         : rouge
 lsi                 : false
 excerpt_separator   : "\n\n"
 
-theme: jekyll-theme-minimal
+theme: minima
 title: Bernardo's homepage
 description: Bookmark this to keep an eye on my project updates!
 incremental         : false
