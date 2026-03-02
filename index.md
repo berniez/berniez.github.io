@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hi, I'm **Bernardo Mota Fraga** — a researcher working at the intersection of machine learning and dynamical systems.
+Hi, I'm **Bernardo Fraga** — a researcher working at the intersection of machine learning and dynamical systems.
 
 ---
 
